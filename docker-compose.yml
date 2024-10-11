@@ -1,0 +1,6 @@
+services:
+  tp1-app:
+    image: imedbenfatma123/newimage:v1
+    container_name : container100
+    ports:
+      - "3030:80"
